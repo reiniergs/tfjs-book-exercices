@@ -1,0 +1,14 @@
+{
+  "name": "tfjs-book-exercices",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:reiniergs/tfjs-book-exercices.git",
+  "author": "Reinier Guerra <reinier.guerra@salesforce.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs": "^2.4.0",
+    "@tensorflow/tfjs-vis": "^1.4.3",
+    "papaparse": "^5.3.0",
+    "request": "^2.88.2"
+  }
+}
